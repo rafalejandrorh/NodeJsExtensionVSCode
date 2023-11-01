@@ -2,4 +2,4 @@
 Extensión de Visual Studio Code con NodeJs
 
 ## Documentación
-https://dev.twitch.tv/docs/irc/get-started/
+https://code.visualstudio.com/api/get-started/your-first-extension
