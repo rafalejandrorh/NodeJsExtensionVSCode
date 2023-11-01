@@ -1,2 +1,2 @@
 # extensionVSCode
-Extensión de Visual Studio Code con 
+Extensión de Visual Studio Code con NodeJs
